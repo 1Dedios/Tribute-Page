@@ -7,4 +7,4 @@ This is my version of the Tribute Page for freeCodeCamp, starring Nikolas Tesla.
 
 Site:
 
-https://1dedios.github.io/TributePage/
+https://1dedios.github.io/Tribute-Page/
